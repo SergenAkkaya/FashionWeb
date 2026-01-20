@@ -1,2 +1,2 @@
-Demo : https://sergenakkaya.com/FashionWebsite/index.html
+Demo : [sergenakkaya.com.tr](https://sergenakkaya.com.tr/project/fashion/)
  
